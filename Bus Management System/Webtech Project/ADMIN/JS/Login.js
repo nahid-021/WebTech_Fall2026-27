@@ -25,7 +25,7 @@ function check_login()
 
     if (valid)
     {
-        if (user == "admin" && pass == "admin123")
+        if (user == "nahid" && pass == "1234")
         {
             window.location.href = "dashboard.html";
         }
